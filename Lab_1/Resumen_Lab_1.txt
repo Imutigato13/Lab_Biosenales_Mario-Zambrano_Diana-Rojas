@@ -1,0 +1,3 @@
+En este laboratorio realizamos una primera exploracion en los elementos principales a utilizar en el curso, estos siendo las librerias Numpy, Mathplotlib y pandaas
+en conjunto con aplicaciones dirigidas hacia el curso de bioseñales para empezar a desarrollar habilidades de analisis e interpretacion de resultados que aunque basicas nos ayudaran
+a desarrollar de mejor manera las practicas siguientes.
