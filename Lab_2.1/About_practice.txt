@@ -1,0 +1,6 @@
+Esta practica consistio en realizar un analisis estadistico temprano de los valores establecidos en la base de datos sobre ECG
+donde se pueden observar el como varia el latido del corazon en diferentes tiempo y validando conocimientos previos
+En primera instancia esta practica se realizo con el proposito de revisar el manejo de bases de datos de bioseñaes y poder procesarlas estadisticamente para poder dar una conclusion validando
+con esto en mente este entregable empieza con una pequeña previsualizacion de los datos filtrados y sin filtrar para conocer sus diferencias principales 
+y establecer un plan de accion, con esto definido se realiza cun muestreo sobre sus picos para establecer el como se relacionan estas variaciones,
+es en este segmento donde entra el analisis estadistico establedico en el documento adjunto.
