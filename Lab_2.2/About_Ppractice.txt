@@ -1,0 +1,8 @@
+Esta práctica abordó la caracterización cuantitativa y el procesamiento digital de señales electrocardiográficas provenientes de una base
+de datos multicanal, con el objetivo de diferenciar patrones de arritmias con mecanismos electrofisiológicos opuestos. La metologia inicial establecio el uso de deteccion de picos R
+para la extraccion de caracteristicas morfologias y temporales descritas a travez de metricas como lo son la tendencia central, dispersion, valores extremos y la frecuencia cardiaca.
+
+A posterior, el analisis se centro en la evaluacion descriptiva e inferencial mediante diagramas de caja y curvas de densidad para explorar el comportamiento
+y grado de solapamiento de las metricas encontradas.  Se verificaron formalmente los supuestos de normalidad e igualdad de varianzas en las distribuciones de los datos biológicos 
+para fundamentar la selección de la prueba de contraste de hipótesis no paramétrica idónea, demostrando que las variaciones en la regularidad temporal y la cadencia ventricular 
+permiten separar de forma automatizada y clínicamente coherente los ritmos sinusales lentos de los procesos auriculares caóticos.
